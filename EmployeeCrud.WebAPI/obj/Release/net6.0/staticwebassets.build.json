@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HE4bXEUIuwpghm+ppuU9HrRkeCT17otKgaeaamr+sIU=",
+  "Source": "EmployeeCrud.WebAPI",
+  "BasePath": "_content/EmployeeCrud.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

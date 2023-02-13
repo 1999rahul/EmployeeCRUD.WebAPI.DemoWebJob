@@ -1,0 +1,12 @@
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\bin\Debug\net6.0\EmployeeCrud.Domain.deps.json
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\bin\Debug\net6.0\EmployeeCrud.Domain.dll
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\bin\Debug\net6.0\EmployeeCrud.Domain.pdb
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\EmployeeCrud.Domain.csproj.AssemblyReference.cache
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\EmployeeCrud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\EmployeeCrud.Domain.AssemblyInfoInputs.cache
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\EmployeeCrud.Domain.AssemblyInfo.cs
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\EmployeeCrud.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\EmployeeCrud.Domain.dll
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\refint\EmployeeCrud.Domain.dll
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\EmployeeCrud.Domain.pdb
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Domain\obj\Debug\net6.0\ref\EmployeeCrud.Domain.dll

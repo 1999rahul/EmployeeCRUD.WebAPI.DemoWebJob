@@ -1,0 +1,17 @@
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\bin\Release\net6.0\EmployeeCrud.Services.deps.json
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\bin\Release\net6.0\EmployeeCrud.Services.dll
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\bin\Release\net6.0\EmployeeCrud.Services.pdb
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\bin\Release\net6.0\EmployeeCrud.Data.dll
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\bin\Release\net6.0\EmployeeCrud.Domain.dll
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\bin\Release\net6.0\EmployeeCrud.Data.pdb
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\bin\Release\net6.0\EmployeeCrud.Domain.pdb
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\EmployeeCrud.Services.csproj.AssemblyReference.cache
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\EmployeeCrud.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\EmployeeCrud.Services.AssemblyInfoInputs.cache
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\EmployeeCrud.Services.AssemblyInfo.cs
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\EmployeeCrud.Services.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\EmployeeCrud.Services.csproj.CopyComplete
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\EmployeeCrud.Services.dll
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\refint\EmployeeCrud.Services.dll
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\EmployeeCrud.Services.pdb
+C:\Users\rahul\Desktop\C#Playground\EmployeeCrud.WebAPI\EmployeeCrud.Services\obj\Release\net6.0\ref\EmployeeCrud.Services.dll
